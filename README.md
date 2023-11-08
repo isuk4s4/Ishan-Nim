@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ishan-nim/ishan-nim/output/snake.svg" alt="Snake animation" />
+
 
 ###
